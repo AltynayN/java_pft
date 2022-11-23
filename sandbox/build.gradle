@@ -1,0 +1,3 @@
+appply plugin: 'java'
+apply plugin: 'applicatioin'
+mainClassName = "MyFirstProgram"
